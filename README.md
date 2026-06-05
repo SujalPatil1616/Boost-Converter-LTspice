@@ -6,7 +6,7 @@ This project demonstrates the design and simulation of a DC-DC Boost Converter i
 
 ## Circuit Diagram
 
-<img src="circuit.png" alt="Boost Converter Circuit" width="700">
+<img src="https://github.com/SujalPatil1616/Boost-Converter-LTspice/blob/main/Boost-Converter%20Circuit.png" alt="Boost Converter Circuit" width="700">
 
 ## Output Waveform
 
