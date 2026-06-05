@@ -10,7 +10,7 @@ This project demonstrates the design and simulation of a DC-DC Boost Converter i
 
 ## Output Waveform
 
-<img src="waveform.png" alt="Boost Converter Output Waveform" width="700">
+<img src="https://github.com/SujalPatil1616/Boost-Converter-LTspice/blob/main/Boost-Converter%20Waveform.png" alt="Boost Converter Output Waveform" width="700">
 
 ## Components Used
 
